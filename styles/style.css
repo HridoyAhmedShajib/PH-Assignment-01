@@ -63,3 +63,105 @@ button:hover {
     background-color: #073f13;
 }
     
+
+.vision {
+    margin-top: 70px;
+}
+
+.vision h1 {
+    font-size: 50px;
+    font: bold;
+}
+
+.vision p {
+    font-size: 20px;
+    font: bold;
+    color: #656363;
+}
+
+.main_vision {
+    display: flex;
+    gap: 20px;
+    justify-content: space-around;
+    align-items: center;
+
+
+}
+
+.child_vision_01 {
+    background-color: rgba(84, 144, 245, 0.2);
+    border-radius: 10px;
+    padding: 10px 20px;
+    height: 280px;
+    width: 535px;
+}
+
+.main_vision > div > h2 {
+    font: bold;
+}
+
+.main_vision > div > p {
+    color: #424040;
+}
+
+.child_vision_01 button {
+    width: 122px;
+    min-height: 41px;
+    background-color: rgb(84, 144, 245);;
+    color: #F1F1F3;
+    border: none;
+    border-radius: 8px;
+}
+
+.child_vision_01 button:hover {
+    color: #0E0E0E;
+}
+
+.child_vision_02 {
+    background-color: rgb(198, 228, 214);;
+    border-radius: 10px;
+    padding: 10px 20px;
+    height: 280px;
+    width: 535px;
+}
+
+.child_vision_02 button {
+    width: 122px;
+    min-height: 41px;
+    color: #F1F1F3;
+    border: none;
+    border-radius: 8px;
+    background-color: rgb(9, 161, 92);;
+}
+
+.child_vision_02 button:hover {
+    color: #0E0E0E;
+}
+
+
+
+
+.child_vision_03 {
+    background-color: rgb(247, 235, 207);
+    border-radius: 10px;
+    padding: 10px 20px;
+    height: 280px;
+    width: 535px;
+}
+
+.child_vision_03 button {
+    width: 122px;
+    min-height: 41px;
+    color: #F1F1F3;
+    border: none;
+    border-radius: 8px;
+    background-color: rgb(255, 194, 57);
+
+}
+
+.child_vision_03 button:hover {
+    color: #0E0E0E;
+}
+
+
+
